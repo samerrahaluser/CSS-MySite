@@ -1,46 +1,55 @@
-div{
+div {
   background-color: #a3ddcb;
   /*text-align: center;*/
 }
 
-body{
+body {
   margin: 0;
   text-align: center;
-  font-family: verdana,sans-serif;
+  font-family: 'Merriweather', serif;
 }
 
-h1{
+h1 {
   margin-top: 0;
+  font-family: 'Sacramento', cursive;
 }
 
-.Top{
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Top {
   background-color: #d4e2d4;
   margin-bottom: 10px;
   /*text-align: center;*/
 }
 
-.Middle{
+.Middle {
   width: 200px;
   height: 200px;
   background-color: #e8e9a1;
   margin-bottom: 10px;
 }
 
-.Bottom{
+.Bottom {
   width: 200px;
   height: 200px;
   background-color: #e6b566;
 }
 
-.Specific{
+.Specific {
   margin-bottom: 10px;
 }
 
-.bottomcloud{
+.bottomcloud {
   position: absolute;
 }
 
-.topcloud{
+.topcloud {
   position: relative;
   left: 200px;
   margin-top: 10px;
