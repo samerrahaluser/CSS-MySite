@@ -1,5 +1,5 @@
 div {
-  background-color: #a3ddcb;
+  background-color: #d4e2d4;
   /*text-align: center;*/
 }
 
@@ -24,21 +24,16 @@ h3 {
 
 .Top {
   background-color: #d4e2d4;
-  margin-bottom: 10px;
+  margin-bottom: 0;
   /*text-align: center;*/
 }
 
 .Middle {
-  width: 200px;
-  height: 200px;
-  background-color: #e8e9a1;
-  margin-bottom: 10px;
+
 }
 
 .Bottom {
-  width: 200px;
-  height: 200px;
-  background-color: #e6b566;
+
 }
 
 .Specific {
@@ -53,4 +48,13 @@ h3 {
   position: relative;
   left: 200px;
   margin-top: 10px;
+}
+
+hr{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.MyImage{
+  margin-top: 20px;
 }
