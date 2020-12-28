@@ -5,6 +5,8 @@ div{
 
 body{
   margin: 0;
+  text-align: center;
+  font-family: verdana,sans-serif;
 }
 
 h1{
@@ -32,4 +34,14 @@ h1{
 
 .Specific{
   margin-bottom: 10px;
+}
+
+.bottomcloud{
+  position: absolute;
+}
+
+.topcloud{
+  position: relative;
+  left: 200px;
+  margin-top: 10px;
 }
